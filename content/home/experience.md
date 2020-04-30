@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "College Park"
   date_start = "2011-01"
   date_end = "2012-06"
-  description = ""
+  description = """
+  
+  """
 
   [[experience]]
   title = "Postdoc"
