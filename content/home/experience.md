@@ -18,7 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-<!-- January 2011 to June 2012, I was a  at the Department of Computer Science of the University of Maryland, -->
   title = "Postdoc"
   company = "The Department of Computer Science of the University of Maryland"
   company_url = ""
@@ -35,11 +34,11 @@ date_format = "Jan 2006"
   date_start = "2012-07"
   date_end = "2015-02"
   description = """
-  <!-- Responsibilities include:
+  Responsibilities include:
   
   * Analysing
   * Modelling
-  * Deploying -->
+  * Deploying
   """
 
 [[experience]]
